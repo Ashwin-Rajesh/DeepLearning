@@ -1,0 +1,54 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOQiZLftj994qLXmcq+SaXo",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Ashwin-Rajesh/DeepLearning/blob/master/Nerual-Networks-And-Deep-Learning/NN1-LogisticRegression\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "2Yudpja09B-O",
+        "colab_type": "text"
+      },
+      "source": [
+        "# Logistic Regression And Back Propogation\n",
+        "---\n",
+        "- This notebook covers the basics of logistic regression and back propogation, learned during first 2 weeks of the course and some content added later"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "i5BKNp-c868E",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "# Importing required libraries\n",
+        "import numpy as np"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    }
+  ]
+}
